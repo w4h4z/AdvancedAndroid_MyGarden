@@ -14,3 +14,10 @@ The app illustrates the power of widgets and collection widgets by making it eas
 https://pixabay.com/en/sapling-plant-growing-seedling-154734/
 https://pixabay.com/en/cactus-cacti-plant-thorns-spiky-152378/
 https://pixabay.com/en/the-background-background-design-352165/
+
+## Identitas
+<li>Nama : Rizaldi Wahaz
+<li>Kelas : XII RPL 2
+<li>No Urut : 31
+<li>NIS : 4818/1537.070
+<li>Sekolah : SMK Telkom Malang
